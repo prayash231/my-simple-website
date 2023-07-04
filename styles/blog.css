@@ -1,8 +1,9 @@
 div{
     color: tomato;
     background-color: rgb(218, 214, 227);
-    margin: 20px solid grey;
+    /* margin: 100px solid grey; */
     padding: 20px;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
 }
